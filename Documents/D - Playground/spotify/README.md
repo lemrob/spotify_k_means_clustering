@@ -1,6 +1,6 @@
 ## My 2023 New Finds Playlist: Applying K-Means Clustering
 
-### Welcome to my project! 🎉🎉🎉🎉🎉🎉
+### 🎉🎉🎉🎉🎉🎉Welcome to my project! 🎉🎉🎉🎉🎉🎉
 
 #### Throughout 2023, every month I decided to create an ongoing playlist to track every new song to me.
 #### The onyl entry requirements were:
